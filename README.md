@@ -1,7 +1,7 @@
 # CV
 Simple html css curriculum vitae
 
-The icons on the project came from https://www.freepik.com/ links below.
+The icons used in the project came from [https://www.freepik.com/] links below.
 Telephone icon => Creaticca Creative Agency [https://www.freepik.com/icon/phone-call_455705#fromView=search&page=1&position=1&uuid=c5627f3f-51ac-408c-b89d-af1a013c65cf]
 Email icon => Uniconlabs [https://www.freepik.com/author/batitok/icons]
 LinkedIn Icon => [https://www.freepik.com/author/freepik/icons]
